@@ -5,7 +5,6 @@ Project
 
 # Youtube Analysis
 
-* Trying to find the answer on these
 * Sentiment analyis on comments
 * which category has most likes and views
 * Correlation between likes, dislikes and views
@@ -15,10 +14,10 @@ Project
 
 ## Face Detection
 
-* With th help of youtube and other resources 
+* With the help of youtube and other resources 
 * This project developed using Python, ML and Computer
-Vision library called OpenCV
-Python, Machine Learning, OpenCV
+  Vision library called OpenCV
+   Python, Machine Learning, OpenCV
 
 
 * * *
