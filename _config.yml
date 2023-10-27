@@ -1,6 +1,10 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: <p align='center'>  Shalini Kushwaha </p>
+logo: /assets/img/IMG20230703181346.jpg
+description: <p align='center'>
+<a herf='https://www.linkedin.com/in/shalini-k-0063681b8/'>Linkdin</a>|
+<a herf='https://github.com/itsshaliniS'>Github</a>
+Recent graduate from Delhi University.
+</p>
 show_downloads: true
 google_analytics:
 remote_theme: pages-themes/minimal@v0.2.0
