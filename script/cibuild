@@ -1,5 +1,5 @@
 #!/bin/sh
-
+bundle install jekyll
 set -e
 
 bundle exec jekyll build
