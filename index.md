@@ -3,7 +3,6 @@ Project
 ---
 
 
-[Link to another page](./another-page.html).
 
 # Youtube Analysis
 
