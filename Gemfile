@@ -2,6 +2,5 @@
 
 source "https://rubygems.org"
 
-gems
-  - jekyll-remote-theme
+gemspec
 
